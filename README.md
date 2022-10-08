@@ -12,7 +12,8 @@ Download all documents. Run npm i and then npm start to begin running the applic
 
 ## **Video Examples**
 
-Initialization walk-through: https://youtu.be/4s5Fo2v_MRI
+- Initialization walk-through: https://youtu.be/4s5Fo2v_MRI
+- Insomnia: https://drive.google.com/file/d/1GEA058rxUG6MoXC8hGe5BTGchVyrluGA/view
 
 ## **Screenshot Examples**
 
