@@ -1,21 +1,25 @@
-# E-Commerce Backend Management
+# **E-Commerce Backend Management**
 
 This is the back end for an e-commerce site. This database uses Sequelize and MySql to generate products, tags and categories for this online business. Data can be created, updated, and deleted within the app. Routes will be tested in Insomnia.
 
-## Usage
+## **Usage**
 
 To provide the backend application for an e-commerce site. This site has the ability to sell various items. The app provides the cost of the item, item ID, stock available and the category ID.
 
-## To Run this Application
+## **To Run this Application**
 
 Download all documents. Run npm i and then npm start to begin running the application locally. The functionality of the application can be seen through the Insomnia app.
 
-## Video Links
+## **Video Examples**
 
 Initialization walk-through: https://youtu.be/4s5Fo2v_MRI
 
-## Contributors
+## **Screenshot Examples**
 
-Lexi Miller
-Leximiller128@gmail.com
-GitHub- Leximiller128
+![alt text](/Screen%20Shot%202022-10-08%20at%202.19.49%20PM.png)
+
+## **Contributors**
+
+- Lexi Miller
+- Leximiller128@gmail.com
+- GitHub-https://github.com/Leximiller128-
